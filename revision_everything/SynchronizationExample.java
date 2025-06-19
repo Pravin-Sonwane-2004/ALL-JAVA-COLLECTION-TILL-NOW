@@ -1,4 +1,3 @@
-package revision_everything;
 class Counter {
     private int count = 0;
 

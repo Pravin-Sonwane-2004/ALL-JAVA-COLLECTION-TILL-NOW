@@ -1,4 +1,3 @@
-package revision_everything;
 public class StringBuilderReplace {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Good Morning");

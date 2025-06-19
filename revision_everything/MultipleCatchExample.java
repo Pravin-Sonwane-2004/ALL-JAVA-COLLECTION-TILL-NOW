@@ -1,4 +1,3 @@
-package revision_everything;
 public class MultipleCatchExample {
     public static void main(String[] args) {
         try {

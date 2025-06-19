@@ -1,4 +1,3 @@
-package revision_everything;
 public class NonPrimitiveDataTypes {
     public static void main(String[] args) {
         // String

@@ -1,4 +1,3 @@
-package revision_everything;
 class Parent {
     public void greet() {
         System.out.println("Hello from Parent");

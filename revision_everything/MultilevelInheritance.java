@@ -1,4 +1,3 @@
-package revision_everything;
 class Employee {
     String name;
     int id;

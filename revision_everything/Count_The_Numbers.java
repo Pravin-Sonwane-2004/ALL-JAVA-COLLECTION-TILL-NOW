@@ -1,4 +1,3 @@
-package revision_everything;
 public class Count_The_Numbers {
     public static void main(String[] args) {
         int a = 123;

@@ -1,4 +1,3 @@
-package revision_everything;
 import java.util.Arrays;
 
 public class Sort_The_Array {

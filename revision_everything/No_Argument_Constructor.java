@@ -1,4 +1,3 @@
-package revision_everything;
 public class No_Argument_Constructor {
     int num;
     String txt;

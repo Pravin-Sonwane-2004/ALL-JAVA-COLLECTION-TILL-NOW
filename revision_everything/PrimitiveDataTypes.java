@@ -1,4 +1,3 @@
-package revision_everything;
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
         byte smallNumber = 10;       // 1 byte

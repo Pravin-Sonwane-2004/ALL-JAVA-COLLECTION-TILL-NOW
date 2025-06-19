@@ -1,4 +1,3 @@
-package revision_everything;
 public class TwoDArray {
     public static void main(String[] args) {
         int[][] matrix = {

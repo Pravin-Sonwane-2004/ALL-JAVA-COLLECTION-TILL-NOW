@@ -1,4 +1,3 @@
-package revision_everything;
 public class Water {
     public static int waterp(int height[]) {
         int left = 0;

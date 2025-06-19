@@ -1,4 +1,3 @@
-package revision_everything;
 class Student {
     String name;
     int age;

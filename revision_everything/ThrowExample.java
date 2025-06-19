@@ -1,4 +1,3 @@
-package revision_everything;
 public class ThrowExample {
     public static void checkAge(int age) {
         if (age < 18) {

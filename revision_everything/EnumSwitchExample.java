@@ -1,4 +1,3 @@
-package revision_everything;
 public class EnumSwitchExample {
 enum TrafficLight {
     RED, YELLOW, GREEN

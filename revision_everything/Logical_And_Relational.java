@@ -1,4 +1,3 @@
-package revision_everything;
 public class Logical_And_Relational {
     public static void main(String[] args) {
         int a = 3;

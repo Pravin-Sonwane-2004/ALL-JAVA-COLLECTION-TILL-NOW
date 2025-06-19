@@ -1,4 +1,3 @@
-package revision_everything;
 class Animal {
     public void eat() {
         System.out.println("This animal eats food.");

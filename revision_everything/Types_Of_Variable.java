@@ -1,4 +1,3 @@
-package revision_everything;
 class VariablesExample {
     // Static variable
     static String staticVar = "I am a static variable";

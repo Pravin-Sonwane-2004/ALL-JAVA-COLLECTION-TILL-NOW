@@ -1,4 +1,3 @@
-package revision_everything;
 public class EnumExample {
     enum Day {
         MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY

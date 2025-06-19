@@ -1,4 +1,3 @@
-package revision_everything;
 public class ExceptionExample {
     public static void main(String[] args) {
         try {

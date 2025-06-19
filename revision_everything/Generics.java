@@ -1,4 +1,3 @@
-package revision_everything;
 import java.util.ArrayList;
 
 public class Generics {

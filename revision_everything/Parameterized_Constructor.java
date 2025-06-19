@@ -1,4 +1,3 @@
-package revision_everything;
 public class Parameterized_Constructor {
         int num;
         String text;

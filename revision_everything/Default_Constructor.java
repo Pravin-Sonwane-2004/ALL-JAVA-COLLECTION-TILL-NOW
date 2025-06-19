@@ -1,4 +1,3 @@
-package revision_everything;
 public class Default_Constructor {
     int num;      // Default value is 0
     String text;  // Default value is null

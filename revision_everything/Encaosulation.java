@@ -1,4 +1,3 @@
-package revision_everything;
 class Human {
     private String name = "Pravin";
     private int age = 20;

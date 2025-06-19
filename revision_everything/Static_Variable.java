@@ -1,4 +1,3 @@
-package revision_everything;
 class Static_Variable {
     static int count = 0;// cant we use instance variable here
 

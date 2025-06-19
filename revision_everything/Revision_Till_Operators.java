@@ -1,4 +1,3 @@
-package revision_everything;
 public class Revision_Till_Operators {
         double length;
         double width;

@@ -1,4 +1,3 @@
-package revision_everything;
 public class DataTypeDemo {
     // Static variable
     static int staticCount = 100;

@@ -1,4 +1,3 @@
-package revision_everything;
 public class StringComparison {
     public static void main(String[] args) {
         String str1 = "Java";

@@ -1,4 +1,3 @@
-package revision_everything;
 public class AutoboxingExample {
     public static void main(String[] args) {
         int num = 10;
