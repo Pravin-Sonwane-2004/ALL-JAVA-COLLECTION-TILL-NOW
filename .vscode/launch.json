@@ -1,0 +1,973 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Remove_Duplicate",
+      "request": "launch",
+      "mainClass": "leetcode.set.Remove_Duplicate",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Addition_Of_odd_nums",
+      "request": "launch",
+      "mainClass": "Addition_Of_odd_nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Age_Calculator",
+      "request": "launch",
+      "mainClass": "Age_Calculator",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Altrnative_half_pyramid",
+      "request": "launch",
+      "mainClass": "Altrnative_half_pyramid",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "ArraysClassPractice",
+      "request": "launch",
+      "mainClass": "ArraysClassPractice",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "AutoboxingExample",
+      "request": "launch",
+      "mainClass": "AutoboxingExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Avarage_Of_Three_Numbers",
+      "request": "launch",
+      "mainClass": "Avarage_Of_Three_Numbers",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "AverageCalculator",
+      "request": "launch",
+      "mainClass": "AverageCalculator",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "BFS_AND_DFS",
+      "request": "launch",
+      "mainClass": "BFS_AND_DFS",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "BankManagementSystem",
+      "request": "launch",
+      "mainClass": "BankManagementSystem",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Base_And_Exponent",
+      "request": "launch",
+      "mainClass": "Base_And_Exponent",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Binary_Search",
+      "request": "launch",
+      "mainClass": "Binary_Search",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Bredth_First_Search",
+      "request": "launch",
+      "mainClass": "Bredth_First_Search",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Bubble_Sort",
+      "request": "launch",
+      "mainClass": "Bubble_Sort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "CheckSorted",
+      "request": "launch",
+      "mainClass": "CheckSorted",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Check_Repeted_In_Array",
+      "request": "launch",
+      "mainClass": "Check_Repeted_In_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Check_if_Armstrong",
+      "request": "launch",
+      "mainClass": "Check_if_Armstrong",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Config",
+      "request": "launch",
+      "mainClass": "Config",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Constructor_Overloading",
+      "request": "launch",
+      "mainClass": "Constructor_Overloading",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Constructor_Referance",
+      "request": "launch",
+      "mainClass": "Constructor_Referance",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Constuructor_Chaining",
+      "request": "launch",
+      "mainClass": "Constuructor_Chaining",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Cost_Of_Items",
+      "request": "launch",
+      "mainClass": "Cost_Of_Items",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Count_The_Numbers",
+      "request": "launch",
+      "mainClass": "Count_The_Numbers",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "DFS",
+      "request": "launch",
+      "mainClass": "DFS",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "DataTypeDemo",
+      "request": "launch",
+      "mainClass": "DataTypeDemo",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Default_Constructor",
+      "request": "launch",
+      "mainClass": "Default_Constructor",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "DeleteAtIndex",
+      "request": "launch",
+      "mainClass": "DeleteAtIndex",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Delete_A_Node_In_BST_TRE",
+      "request": "launch",
+      "mainClass": "Delete_A_Node_In_BST_TRE",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "DiamondProblem",
+      "request": "launch",
+      "mainClass": "DiamondProblem",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Dimond_Stars",
+      "request": "launch",
+      "mainClass": "Dimond_Stars",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Encaosulation",
+      "request": "launch",
+      "mainClass": "Encaosulation",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Enter_Age",
+      "request": "launch",
+      "mainClass": "Enter_Age",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "EnumExample",
+      "request": "launch",
+      "mainClass": "EnumExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "EnumSwitchExample",
+      "request": "launch",
+      "mainClass": "EnumSwitchExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Even_Program",
+      "request": "launch",
+      "mainClass": "Even_Program",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "ExceptionExample",
+      "request": "launch",
+      "mainClass": "ExceptionExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Factorial_Calculator",
+      "request": "launch",
+      "mainClass": "Factorial_Calculator",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "FinallyExample",
+      "request": "launch",
+      "mainClass": "FinallyExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Finding_the_Largest_Element",
+      "request": "launch",
+      "mainClass": "Finding_the_Largest_Element",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Floyds_Triangle",
+      "request": "launch",
+      "mainClass": "Floyds_Triangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Generics",
+      "request": "launch",
+      "mainClass": "Generics",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Gst_By_Eighteen_Percent",
+      "request": "launch",
+      "mainClass": "Gst_By_Eighteen_Percent",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Half_pyramid",
+      "request": "launch",
+      "mainClass": "Half_pyramid",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Hierarchical_Inheritance",
+      "request": "launch",
+      "mainClass": "Hierarchical_Inheritance",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Hologram_rectngle",
+      "request": "launch",
+      "mainClass": "Hologram_rectngle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "ImmutableExample",
+      "request": "launch",
+      "mainClass": "ImmutableExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "IncomeTax",
+      "request": "launch",
+      "mainClass": "IncomeTax",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Insertio_Sort",
+      "request": "launch",
+      "mainClass": "Insertio_Sort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Interest_Rate_By_Ten_Percent",
+      "request": "launch",
+      "mainClass": "Interest_Rate_By_Ten_Percent",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Inverted_Floyds_Triangle",
+      "request": "launch",
+      "mainClass": "Inverted_Floyds_Triangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Inverted_Half_pyramid_180_Rotation",
+      "request": "launch",
+      "mainClass": "Inverted_Half_pyramid_180_Rotation",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Largest_Element_In_Array",
+      "request": "launch",
+      "mainClass": "Largest_Element_In_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Library_Management_With_Static_Or_NonStatic",
+      "request": "launch",
+      "mainClass": "Library_Management_With_Static_Or_NonStatic",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "LinearSearch",
+      "request": "launch",
+      "mainClass": "LinearSearch",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Linear_And_Binary_Steps",
+      "request": "launch",
+      "mainClass": "Linear_And_Binary_Steps",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Logical_And_Relational",
+      "request": "launch",
+      "mainClass": "Logical_And_Relational",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Array_Find_Median",
+      "request": "launch",
+      "mainClass": "Merge_Array_Find_Median",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Sorted_Array",
+      "request": "launch",
+      "mainClass": "Merge_Sorted_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Merge_Two_Sorted_Arrays",
+      "request": "launch",
+      "mainClass": "Merge_Two_Sorted_Arrays",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Mergsort",
+      "request": "launch",
+      "mainClass": "Mergsort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "MethodOverride",
+      "request": "launch",
+      "mainClass": "MethodOverride",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "MissingNumberFinder",
+      "request": "launch",
+      "mainClass": "MissingNumberFinder",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "MultilevelInheritance",
+      "request": "launch",
+      "mainClass": "MultilevelInheritance",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "MultipleCatchExample",
+      "request": "launch",
+      "mainClass": "MultipleCatchExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "MultiplicationTable",
+      "request": "launch",
+      "mainClass": "MultiplicationTable",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "No_Argument_Constructor",
+      "request": "launch",
+      "mainClass": "No_Argument_Constructor",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "NonPrimitiveDataTypes",
+      "request": "launch",
+      "mainClass": "NonPrimitiveDataTypes",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome_Recursion",
+      "request": "launch",
+      "mainClass": "Palindrome_Recursion",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Parameterized_Constructor",
+      "request": "launch",
+      "mainClass": "Parameterized_Constructor",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Pelendromic_pyramid",
+      "request": "launch",
+      "mainClass": "Pelendromic_pyramid",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Plus_One_In_Array",
+      "request": "launch",
+      "mainClass": "Plus_One_In_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Practice",
+      "request": "launch",
+      "mainClass": "Practice",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "PrefixSum",
+      "request": "launch",
+      "mainClass": "PrefixSum",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "PrimitiveDataTypes",
+      "request": "launch",
+      "mainClass": "PrimitiveDataTypes",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Prinntallpath",
+      "request": "launch",
+      "mainClass": "Prinntallpath",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "PrintSubarray",
+      "request": "launch",
+      "mainClass": "PrintSubarray",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_Even_Nums",
+      "request": "launch",
+      "mainClass": "Print_Even_Nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_In_Range",
+      "request": "launch",
+      "mainClass": "Print_In_Range",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_Root_To_Leaf_Path",
+      "request": "launch",
+      "mainClass": "Print_Root_To_Leaf_Path",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_Table",
+      "request": "launch",
+      "mainClass": "Print_Table",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_inverted_one_to_Five_in_trangle",
+      "request": "launch",
+      "mainClass": "Print_inverted_one_to_Five_in_trangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_odd_nums",
+      "request": "launch",
+      "mainClass": "Print_odd_nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_rows_and_columns_stars",
+      "request": "launch",
+      "mainClass": "Print_rows_and_columns_stars",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Print_to_Five_in_trangle",
+      "request": "launch",
+      "mainClass": "Print_to_Five_in_trangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "PyramidPattern1",
+      "request": "launch",
+      "mainClass": "PyramidPattern1",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Pyramid_nums",
+      "request": "launch",
+      "mainClass": "Pyramid_nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Quick_sort",
+      "request": "launch",
+      "mainClass": "Quick_sort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Remove_Duplicate_Ele",
+      "request": "launch",
+      "mainClass": "Remove_Duplicate_Ele",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Remove_Duplicates_From_Array",
+      "request": "launch",
+      "mainClass": "Remove_Duplicates_From_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "ReverseHelloWorld",
+      "request": "launch",
+      "mainClass": "ReverseHelloWorld",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Reverse_Array",
+      "request": "launch",
+      "mainClass": "Reverse_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Reversing_Array",
+      "request": "launch",
+      "mainClass": "Reversing_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Revision_Till_Operators",
+      "request": "launch",
+      "mainClass": "Revision_Till_Operators",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Search_Insert_Position",
+      "request": "launch",
+      "mainClass": "Search_Insert_Position",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Selection_Sort",
+      "request": "launch",
+      "mainClass": "Selection_Sort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Shift_All_Zeros",
+      "request": "launch",
+      "mainClass": "Shift_All_Zeros",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Solid_Rhombus",
+      "request": "launch",
+      "mainClass": "Solid_Rhombus",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Sort_An_Array_not",
+      "request": "launch",
+      "mainClass": "Sort_An_Array_not",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Sort_The_Array",
+      "request": "launch",
+      "mainClass": "Sort_The_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Stars",
+      "request": "launch",
+      "mainClass": "Stars",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Stars_in_trangle",
+      "request": "launch",
+      "mainClass": "Stars_in_trangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Static_Math_Utils",
+      "request": "launch",
+      "mainClass": "Static_Math_Utils",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Static_Real_Life_Scenario",
+      "request": "launch",
+      "mainClass": "Static_Real_Life_Scenario",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Static_Variable",
+      "request": "launch",
+      "mainClass": "Static_Variable",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderAppend",
+      "request": "launch",
+      "mainClass": "StringBuilderAppend",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderCapacity",
+      "request": "launch",
+      "mainClass": "StringBuilderCapacity",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderDelete",
+      "request": "launch",
+      "mainClass": "StringBuilderDelete",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderExample",
+      "request": "launch",
+      "mainClass": "StringBuilderExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderInsert",
+      "request": "launch",
+      "mainClass": "StringBuilderInsert",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderMethods",
+      "request": "launch",
+      "mainClass": "StringBuilderMethods",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderReplace",
+      "request": "launch",
+      "mainClass": "StringBuilderReplace",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringBuilderReverse",
+      "request": "launch",
+      "mainClass": "StringBuilderReverse",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringComparison",
+      "request": "launch",
+      "mainClass": "StringComparison",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringConcatenationConcat",
+      "request": "launch",
+      "mainClass": "StringConcatenationConcat",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "StringSearching",
+      "request": "launch",
+      "mainClass": "StringSearching",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Sum_Of_All_Numbers_In_Array",
+      "request": "launch",
+      "mainClass": "Sum_Of_All_Numbers_In_Array",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Sum_of_Even_And_Odd_nums",
+      "request": "launch",
+      "mainClass": "Sum_of_Even_And_Odd_nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Swap_Two_Numbers",
+      "request": "launch",
+      "mainClass": "Swap_Two_Numbers",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizationExample",
+      "request": "launch",
+      "mainClass": "SynchronizationExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "SynchronizedBlocATM",
+      "request": "launch",
+      "mainClass": "SynchronizedBlocATM",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "ThrowExample",
+      "request": "launch",
+      "mainClass": "ThrowExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Total_Of_odd_nums",
+      "request": "launch",
+      "mainClass": "Total_Of_odd_nums",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "TwoDArray",
+      "request": "launch",
+      "mainClass": "TwoDArray",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "VariablesExample",
+      "request": "launch",
+      "mainClass": "VariablesExample",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Water",
+      "request": "launch",
+      "mainClass": "Water",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Weighted_Graph_print",
+      "request": "launch",
+      "mainClass": "Weighted_Graph_print",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "Zeros_Ons_triangle",
+      "request": "launch",
+      "mainClass": "Zeros_Ons_triangle",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "insertAtIndex",
+      "request": "launch",
+      "mainClass": "insertAtIndex",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "pr",
+      "request": "launch",
+      "mainClass": "pr",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "practice",
+      "request": "launch",
+      "mainClass": "practice",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "print_the_graph",
+      "request": "launch",
+      "mainClass": "print_the_graph",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "quicksort",
+      "request": "launch",
+      "mainClass": "quicksort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "s",
+      "request": "launch",
+      "mainClass": "s",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "second_Highest",
+      "request": "launch",
+      "mainClass": "second_Highest",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    },
+    {
+      "type": "java",
+      "name": "selection__Sort",
+      "request": "launch",
+      "mainClass": "selection__Sort",
+      "projectName": "ALL JAVA COLLECTION TILL NOW_43996786"
+    }
+  ]
+}
