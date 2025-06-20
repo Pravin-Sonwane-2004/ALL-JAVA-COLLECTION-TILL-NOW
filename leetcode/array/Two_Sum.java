@@ -11,10 +11,9 @@ public class Two_Sum {
         return new int[] { map.get(complement), i };
 
       }
-      map.put(nums[i], i); // store current number with index
-
+      map.put(nums[i], i);
     }
-    return new int[0]; // store current number with index
+    return new int[0]; 
   }
 
   public static void main(String[] args) {
