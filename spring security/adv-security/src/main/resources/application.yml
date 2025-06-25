@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: adv-security
+  output:
+    ansi:
+      enabled: always
+
+  
