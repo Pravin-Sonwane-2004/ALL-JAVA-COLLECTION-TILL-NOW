@@ -10,6 +10,7 @@ async function fetchUserData() {
     console.log("User:", userData);
     console.log("Posts:", userPosts);
   }
+//maintaining streak exams are going 
   
   fetchUserData();
   
